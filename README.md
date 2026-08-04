@@ -1,17 +1,99 @@
-# React + Vite
+# ⛓️ CYBERDAEMON 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **A futuristic interface built for the next generation.**
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```text
+ $$$$$$\            $$\                           $$$$$$$\                                                        
+$$  __$$\           $$ |                          $$  __$$\                                                       
+$$ /  \__|$$\   $$\ $$$$$$$\   $$$$$$\   $$$$$$\  $$ |  $$ | $$$$$$\   $$$$$$\  $$$$$$\$$$$\   $$$$$$\  $$$$$$$\  
+$$ |      $$ |  $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$ |  $$ | \____$$\ $$  __$$\ $$  _$$  _$$\ $$  __$$\ $$  __$$\ 
+$$ |      $$ |  $$ |$$ |  $$ |$$$$$$$$ |$$ |  \__|$$ |  $$ | $$$$$$$ |$$$$$$$$ |$$ / $$ / $$ |$$ /  $$ |$$ |  $$ |
+$$ |  $$\ $$ |  $$ |$$ |  $$ |$$   ____|$$ |      $$ |  $$ |$$  __$$ |$$   ____|$$ | $$ | $$ |$$ |  $$ |$$ |  $$ |
+\$$$$$$  |\$$$$$$$ |$$$$$$$  |\$$$$$$$\ $$ |      $$$$$$$  |\$$$$$$$ |\$$$$$$$\ $$ | $$ | $$ |\$$$$$$  |$$ |  $$ |
+ \______/  \____$$ |\_______/  \_______|\__|      \_______/  \_______| \_______|\__| \__| \__| \______/ \__|  \__|
+          $$\   $$ |                                                                                              
+          \$$$$$$  |                                                                                              
+           \______/                                                                                               
+```
 
-## React Compiler
+### `SYSTEM STATUS: ONLINE`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Cyberpunk • Experimental • Interactive • Personal**
 
-## Expanding the ESLint configuration
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# cyberdaemon2026
+---
+
+## ◉ ABOUT
+
+**CyberDaemon 2026** is a futuristic web experience designed around the idea of a personal digital command center.
+
+It blends:
+
+*Experimental UI
+*Modern web technologies
+*Cyberpunk aesthetics
+*Interactive interfaces
+*Digital identity
+*Creative frontend experimentation
+
+The goal isn't just to make a website.
+
+> **The goal is to make the interface feel like a system.**
+
+---
+
+## FEATURES
+
+```text
+┌──────────────────────────────────────────────┐
+│                 CYBERDAEMON                  │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ◉ Futuristic interface                     │
+│  ◉ Interactive components                   │
+│  ◉ Responsive layout                        │
+│  ◉ Cyberpunk visual language                │
+│  ◉ Smooth animations                        │
+│  ◉ Modern React architecture                │
+│  ◉ Experimental UI/UX                       │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 🧠 TECH STACK
+
+| Technology        | Purpose                     |
+| ----------------- | --------------------------- |
+| ⚛️ **React**      | UI architecture             |
+| ⚡ **Vite**        | Development & build tooling |
+| 🟨 **JavaScript** | Application logic           |
+| 🎨 **CSS**        | Visual system & animations  |
+| 📦 **npm**        | Package management          |
+| 🧬 **ESLint**     | Code quality                |
+
+## 👾 CREATOR
+
+### `B4BLAD3`
+
+**Pratham Pai**
+
+Creative developer • Linux enthusiast • UI/UX experimenter • Tech nerd
+
+Building weird things because normal websites are boring.
+
+---
+
+## ⚠️ DISCLAIMER
+
+CyberDaemon 2026 is an experimental creative project.
+
+Some interfaces, terminology, and visual elements are intentionally inspired by fictional futuristic systems.
+
+**No actual daemon was harmed during development.**
+
+---
