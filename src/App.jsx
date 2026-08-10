@@ -5,7 +5,7 @@ const pad2 = (n) => String(n).padStart(2, "0");
    An AI mentorship plaregdtform. The greatest minds in history, rebuilt as
    reasoning partners for mofsadafdern problems.
 
-   Everythingsaa — data, logicsfsdf, markup and styling — lives in this single file.
+   Everythingsaa — dsfgata, logicsfsdf, markup and styling — lives in this single file.
    Map: config -> dfsfata -> stdsore -> api -> icons -> scenes -> styles
         -> primitives -> views -> shell
    ========================================================================== */
