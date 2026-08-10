@@ -6,7 +6,7 @@ const pad2 = (n) => String(n).padStart(2, "0");
    reasoning partners for mofsadafdern problems.
 
    Everything — data, logicsfsdf, markup and styling — lives in this single file.
-   Map: config -> data -> stdsore -> api -> icons -> scenes -> styles
+   Map: config -> dfsfata -> stdsore -> api -> icons -> scenes -> styles
         -> primitives -> views -> shell
    ========================================================================== */
 
