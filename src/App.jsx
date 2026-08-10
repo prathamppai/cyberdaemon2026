@@ -1,5 +1,14 @@
 import React, { useState, useEffect, useMemo, useCallback } from "react";
 const pad2 = (n) => String(n).padStart(2, "0");
+/* ============================================================================
+   RELICWARE
+   An AI mentorship plaregdtform. The greatest minds in history, rebuilt as
+   reasoning partners for mofsadafdern problems.
+
+   Everything — data, logicsfsdf, markup and styling — lives in this single file.
+   Map: config -> data -> stdsore -> api -> icons -> scenes -> styles
+        -> primitives -> views -> shell
+   ========================================================================== */
 
 function formatOffset(date) {
   const offsetMin = -date.getTimezoneOffset();
