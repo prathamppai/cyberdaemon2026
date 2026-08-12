@@ -4,7 +4,7 @@ const pad2 = (n) => String(n).padStart(2, "0");
    RELICWARE
    An AI mentorship plaregdtform. The greatest minds in history, rebuilt as
    reasoning partners for mffsdrfsfssdofsadafdern problems.
-fsdsfdsf
+fsdsfdsfsdfdsf
    Everythingsaa — dsfgata, logicsfsdf, markup and styling — lives in this single file.
    Map: config -> dfsfata -> stdsore -> api ->dsfsd icons -> scenes -> styles
         -> primitives -> views -> shell
