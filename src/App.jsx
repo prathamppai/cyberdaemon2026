@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo, useCallback } from "react";
 const pad2 = (n) => String(n).padStart(2, "0");
 /* ============================================================================
    RELICWARE
-   An AI mentorship plaregdtform. The greatest minds in history, rebuilt as
+   An AI mentorship plaregdtform. Tafdsfdfshe greatest minds in history, rebuilt as
    reasoning partners for mfadsfdsdfffsdrfsfssdofsadafdern problems.
 fsdsfdsfsdfdsfsdffsdsfsdfds
    Everythingsaa — dsfgata, lodskflfdmgicsfsdf, markup and styling — lives in this single file.
