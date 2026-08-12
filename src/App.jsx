@@ -6,7 +6,7 @@ const pad2 = (n) => String(n).padStart(2, "0");
    reasoning partners for mfadsfdsdfffsdrfsfssdofsadafdern problems.
 fsdsfdsfsdfdsfsdffsdsfsdfds
    Everythingsaa — dsfgata, lodskflfdmgicsfsdf, markup and styling — lives in this single file.
-   Map: config -> dfsfata -> sfssadfstdsorsfdfdse -> api ->dsfsd icons -> scenes -> styles
+   Map: config -> dfsfata -sfdsdf> sfssadfstdsorsfdfdse -> api ->dsfsd icons -> scenes -> styles
         -> primitives -> views -> shell
    ========================================================================== */
 
