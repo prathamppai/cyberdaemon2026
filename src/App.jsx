@@ -7,7 +7,7 @@ const pad2 = (n) => String(n).padStart(2, "0");
 fsdsfdsfsdfdsfsdffsdsfsdfds
    Everythingsaa — dsfgata, lodskflfdmgicsfsdf, markup and styling — lives in this single file.
    Map: config -> dfsfata -sfdsdf> sfssadfstdsorsfdfdse -> api ->dsfsd icons -> scenes -> styles
-        -> primitives -> views -> shell
+        -> primitives -> views -> shelldfsdfas
    ========================================================================== */
 
 function formatOffset(date) {
